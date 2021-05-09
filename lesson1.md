@@ -19,8 +19,9 @@ You will talk to the store manager if you have an issue/question.
 
 # What is Management
 Management is concerned with two things:
-- Efficiency: Doing things right, and getting the most output for the least inputs.
-- Effectiveness: Doing the right things, and attaining organisational goals.
+- Efficiency: Getting the most output for the least inputs.
+- Effectiveness: Doing the right things that will help the organization reach
+the set goals.
 
 ### Efficiency
 > Getting the most output for the least inputs.
@@ -104,24 +105,25 @@ call with investors, or conversations with suppliers. They also deal with
 governmental agencies, creditors, and investors. 
 
 ### Decisional roles
-Entrepreneur: information obtained from their informational roles will allow the manager together
-to help the organization with said information. An advantage is obtained due to the information collected
-from serving as a monitor.
+Entrepreneur: information obtained from their informational roles will allow the
+manager together to help the organization with said information. An advantage
+is obtained due to the information collected from serving as a monitor.
 
-Disturbance handler: managers are responsible for responding to events that are beyond their control,
-these events are usually too significant for a manager to ignore. And some action form of action
-will be taken. For example events such as natural disasters, or competitor actions.
+Disturbance handler: managers are responsible for responding to events that are
+beyond their control, these events are usually too significant for a manager
+to ignore. And some action form of action will be taken. For example events
+such as natural disasters, or competitor actions.
 
-Resource allocator: The manager will be responsible for who gets how much of a resource. 
-Whether it be time, money, facilities, or extra staff for a task. They also establish an
-organisational structure to their unit before implementation
+Resource allocator: The manager will be responsible for who gets how much of
+a resource.  Whether it be time, money, facilities, or extra staff for a task.
+They also establish an organisational structure to their unit before implementation.
 
-Negotiator: A manager is able to negotiate more effectively due the authority over an 
+Negotiator: A manager is able to negotiate more effectively due the authority over an
 organization or subgroup, and how much resource the organization or subgroup can use.
 As well as, having information collected from their informational roles. 
 
+> "The impact of managerial roles acting together is greater than the sum of their parts." - Unknown
 
-> "The impact of managerial roles acting together is greater than the sum of their parts. Henry Mintzberg
-> said that not all managers give equal amount of attention to each role. But access to 
+> "Not all managers give equal amount of attention to each role. But access to 
 > each of these roles is what makes an effective manager." - Henry Mintzberg
 
