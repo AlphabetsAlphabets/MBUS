@@ -98,13 +98,12 @@ Disseminator: As a disseminator the manager will relay the information from his/
 of contacts to his/her organization or subgroup. Without the manager subbordinates will not
 have access to this information as they usually lack the a network of contacts.
 
-Spokeperson: In addition to disseminating information within their organization. They are
-also responsible for disseminating information to groups outside of their organization.
-Whether it be through testimonies, conference call with investors, or conversations with 
-suppleirs. They also deal with governmental agencies, creditors, and investors. 
+Spokeperson: A manager is also responsible for disseminating information to groups
+outside of their organization. Whether it be through testimonies, conference
+call with investors, or conversations with suppliers. They also deal with
+governmental agencies, creditors, and investors. 
 
 ### Decisional roles
-Entrepreneur, disturbance handdler, resource allocator, negotiator.
 Entrepreneur: information obtained from their informational roles will allow the manager together
 to help the organization with said information. An advantage is obtained due to the information collected
 from serving as a monitor.
