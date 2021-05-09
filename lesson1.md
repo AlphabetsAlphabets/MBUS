@@ -77,7 +77,7 @@ What is a manager: Someone who is in charge of an organization or subgroup, and 
 are given an amount of authority derived from having a position in the organization results
 in the posession of status.  And the manager must be able to be all of these to some extent.
 
-1. Interpersonal roles
+### Interpersonal roles
 Figurehead: responsible for performing ceremonial duties, taking a newly hired employee to lunch or
 attending an employee's wedding.
 
@@ -88,7 +88,7 @@ Liaison: The manager will interface with people inside or outside of the organiz
 through a liaison. Which allows them to form contacts with their peers, customers, and suppliers
 which can serve as a valuable source of information.
 
-2. Informational roles
+### Informational roles
 Important contacts and information is obtained through their informational roles.
 Monitor: As a monitor he/she will obtain crucial information from their colleciton of contacts. 
 which the manager will relay to his/her subbordinates as soon as possible.
@@ -102,7 +102,7 @@ also responsible for disseminating information to groups outside of their organi
 Whether it be through testimonies, conference call with investors, or conversations with 
 suppleirs. They also deal with governmental agencies, creditors, and investors. 
 
-3. Decisional roles
+### Decisional roles
 Entrepreneur, disturbance handdler, resource allocator, negotiator.
 Entrepreneur: information obtained from their informational roles will allow the manager together
 to help the organization with said information. An advantage is obtained due to the information collected
@@ -121,7 +121,7 @@ organization or subgroup, and how much resource the organization or subgroup can
 As well as, having information collected from their informational roles. 
 
 
-The impact of managerial roles acting together is greater than the sum of their parts. Henry Mintzberg
-said that not all managers give equal amount of attention to each role. But access to 
-each of these roles is what makes an effective manager.
+> "The impact of managerial roles acting together is greater than the sum of their parts. Henry Mintzberg
+> said that not all managers give equal amount of attention to each role. But access to 
+> each of these roles is what makes an effective manager." - Henry Mintzberg
 
