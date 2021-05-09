@@ -89,7 +89,8 @@ through a liaison. Which allows them to form contacts with their peers, customer
 which can serve as a valuable source of information.
 
 ### Informational roles
-Important contacts and information is obtained through their informational roles.
+Important contacts and information is obtained through their informational roles.  
+
 Monitor: As a monitor he/she will obtain crucial information from their colleciton of contacts. 
 which the manager will relay to his/her subbordinates as soon as possible.
 
