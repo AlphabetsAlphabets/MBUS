@@ -70,6 +70,7 @@ will be given to said employee.
 The most important phase is planning. Without proper planning, means workers have
 no direction to follow which won't lead to anything.
 
+# Mintzberg management model
 ### Roles
 This approach is also known as the Mintzberg approach. It is composed of 3 roles, which
 all tie together. 
@@ -127,3 +128,37 @@ As well as, having information collected from their informational roles.
 > "Not all managers give equal amount of attention to each role. But access to 
 > each of these roles is what makes an effective manager." - Henry Mintzberg
 
+# Skills needed in a manager
+<img src="images/Skills needed at different levels of management.png">
+
+### Technical skills
+The ability to perform techniques, or procedures in the field. That require 
+in-depth and expert knowledge in the field. Such as performing a repair on a car, or
+surgery. To perform these actions requires in-depth and expert knowledge. **Usually**,
+the CEO of a hospital or an automobile repair center will not be able to perform these
+activities.
+
+First line managers, and middle maangers are very invovled in the technical aspect
+of the organization.
+
+Technical skills become less important in higher levels of management as different
+skills are needed at different levels of management.
+
+### Human/Interpersonal skill (or being a people person)
+Managers deal with people to some extent in all levels of management. Managers
+with good "people skills" will be more effective at motivating and encouraging
+their subbordinates. To get the most of out each staff member.
+
+### Conceptual skills
+Individuals at top management must have exceptional conceptual skills in order
+to make sense of abstract concepts. And to determine how a particular event
+will affect the organization. In layman's terms to see the big picture. This is
+**essential** for decision making.
+
+---
+
+Everything below this point are extra skills a manager needs
+
+### Effectiveness skills
+The ability to achieve organizational/departmental goals. Being able to multitask,
+by working with other tasks in parallela, and have negotiating skills.
