@@ -6,10 +6,11 @@ They are responsible for strategizing how to make their own products known. And
 are responsible for making organization wide decisions.
 
 ### Middle level managers
-Titles: General Manager, Branch M, Divisional M, Factory M
-Top gives direction to middle, then middle implement it accordingly.
+Titles: General Manager, Branch M, Divisional M, Factory M  
+They give directions to the middle management, and middle 
+management will implement those steps accordingly.
 
-Individuals who manager the work of first-line managers.
+Individuals who manage the work of first-line managers.
 
 ### First-line Managers (a.k.a supervising manager)
 Titles: Store manager, department m
@@ -26,7 +27,7 @@ the set goals.
 ### Efficiency
 > Getting the most output for the least inputs.
 
-Which each input is a resource that is used, the less resources are used the more
+Where each input is a resource and, the less resources are used the more
 efficient it is. The resource and be either financial, or in terms of number of
 workers needed to complete each task.
 
@@ -41,33 +42,33 @@ Efficiency **and** effectiveness. By using the least amount of resources, to pro
 a large quantity of product with a low defect rate. Will result in large profits.
 
 **Usually** the more efficient something is the higher the profit gain due to lower
-consumption of resources.
+consumption of resources. 
 
-# Functional approach of managers
+# Three approaches managers take to be a successful manager
 1. Functional approach
 2. Roles approach (a.k.a Mintzberg approach)
 3. Skills approach
-
+There are t
 ### Functional 
 It follows the **POLC** approach.
-- **P**(lanning)
+- **P**(lanning)  
 Defining goals, and creating strategies to obtain results. Developing plans to 
 coordinate activies.
 
-- **O**(rganising)
+- **O**(rganising)  
 Structuring work to accomplish goals set during the planning phase. This phase also
 is responsible for allocating resources.
 
-- **L**(eading)
+- **L**(eading)  
 Working with and through people to accomplish goals.
 
-- **C**(ontroling)
-Monitoring the set standard, and compare work between employees to see if the
-standards are met. And corrective action will be taken to make sure employees 
-reach the standard. If work done by an employee exceeds exceptations rewards 
+- **C**(ontroling)  
+Maintaining the set standard, by comparing work between employees.  If the
+standards are not met corrective action will be taken to make sure an employee's
+reach the standards set. If work done by an employee exceeds exceptations rewards 
 will be given to said employee.
 
-The most important phase is planning. Without proper planning, means workers have
+The most important phase is planning. Without proper planning, workers have
 no direction to follow which won't lead to anything.
 
 # Mintzberg management model
