@@ -77,8 +77,7 @@ This approach is also known as the Mintzberg approach. It is composed of 3 roles
 all tie together. 
 
 What is a manager: Someone who is in charge of an organization or subgroup, and they
-are given an amount of authority derived from having a position in the organization results
-in the posession of status.  And the manager must be able to be all of these to some extent.
+are given an amount of authority over the indivudals in the organization or subgroup.
 
 ### Interpersonal roles
 Figurehead: responsible for performing ceremonial duties, taking a newly hired employee to lunch or
@@ -87,19 +86,18 @@ attending an employee's wedding.
 Leader: they are accounted for the work and performance of their subbordinates. And they must therefore,
 keep their subbordinates on the right track, and making sure standards and deadlines are met.
 
-Liaison: The manager will interface with people inside or outside of the organization
-through a liaison. Which allows them to form contacts with their peers, customers, and suppliers
-which can serve as a valuable source of information.
+Liaison: The manager will interface with people inside or outside of the
+organization.  Which allows them to form contacts with their peers, customers,
+and suppliers which can serve as a valuable source of information.
 
 ### Informational roles
 Important contacts and information is obtained through their informational roles.  
 
-Monitor: As a monitor he/she will obtain crucial information from their colleciton of contacts. 
+Monitor: As a monitor he/she will obtain crucial information from their collection of contacts. 
 which the manager will relay to his/her subbordinates as soon as possible.
 
-Disseminator: As a disseminator the manager will relay the information from his/her collection
-of contacts to his/her organization or subgroup. Without the manager subbordinates will not
-have access to this information as they usually lack the a network of contacts.
+Disseminator: As a disseminator the manager will relay the information obtained from 
+collection of contacts.
 
 Spokeperson: A manager is also responsible for disseminating information to groups
 outside of their organization. Whether it be through testimonies, conference
@@ -161,5 +159,6 @@ will affect the organization. In layman's terms to see the big picture. This is
 Everything below this point are extra skills a manager needs
 
 ### Effectiveness skills
-The ability to achieve organizational/departmental goals. Being able to multitask,
-by working with other tasks in parallela, and have negotiating skills.
+The ability to achieve organizational/departmental goals. Being able to
+multitask, by working with other tasks in parrallel, and have negotiating
+skills.
